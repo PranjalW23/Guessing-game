@@ -1,4 +1,4 @@
-<h1>This is the 1st task i did for my Prodigy Internship</h1>
+<h1>This is the 2nd task i did for my Prodigy Internship</h1>
 
 ***GUESSING GAME***
 <h2>Problem statement:</h2> 
